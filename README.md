@@ -1,4 +1,4 @@
-<h1>Hi, I'm Travis! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/travis-burke-637a0b15b">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Travis! <br/><a href="https://github.com/tburke98">Programmer</a>, <a href="www.linkedin.com/in/travis-burke-637a0b15b">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
