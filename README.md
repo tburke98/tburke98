@@ -1,14 +1,14 @@
-<h1>Hi, I'm Travis! <br/><a href="https://github.com/tburke98">Programmer</a>, <a href="www.linkedin.com/in/travis-burke-637a0b15b">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Travis! <br/><a href="https://github.com/tburke98">Computer Science Student</a>, <a href="www.linkedin.com/in/travis-burke-637a0b15b"> Aspiring Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="tburke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tburke98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: 
 [linkedin]: www.linkedin.com/in/travis-burke-637a0b15b
 
 <!--
