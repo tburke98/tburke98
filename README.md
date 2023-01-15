@@ -6,9 +6,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="tburke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tburke98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: 
+
 [linkedin]: www.linkedin.com/in/travis-burke-637a0b15b
 
 <!--
